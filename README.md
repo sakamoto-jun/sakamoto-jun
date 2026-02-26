@@ -1,6 +1,6 @@
 프론트엔드 개발자를 준비 중인 `sakamoto` 입니다.  
 꾸준히 기록하고 복기하는 방식으로 성장을 이어가고 있습니다.  
-학습 내용은 직접 만든 [개인 아카이브](www.sakamotoarchive.dev)에 정리하고 있습니다.
+학습 내용은 직접 만든 [개인 아카이브](https://www.sakamotoarchive.dev)에 정리하고 있습니다.
 
 ## 🛠 Tech Stack
 
